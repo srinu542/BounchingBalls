@@ -1,5 +1,5 @@
 var c = document.querySelector("canvas").getContext("2d");
-var color = ["#ff0000","#00ff00","#ffff00","#0000ff","#ddaaee"];
+var color = ["#56ff79","#042358","#4cf0dd","#ff6b35","#ffff00"];
     
   c.width = window.innerWidth;
   c.height = window.innerHeight;
